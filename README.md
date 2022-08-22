@@ -4,6 +4,10 @@
 
 > Project created to practice code reviewing
 
+# Attribution Note
+
+> This Project is based on original code by [@IngDavidTM](https://github.com/IngDavidTM)
+
 ## Built With
 
 - HTML
@@ -18,6 +22,10 @@
 - GitHub: [@fdezcaminero](https://github.com/fdezcaminero)
 - Twitter: [@fdezcaminero](https://twitter.com/fdezcaminero)
 - LinkedIn: [José Fernández-Caminero](https://www.linkedin.com/in/fdezcaminero/)
+
+## Acknowledgements
+
+Many thanks to [@IngDavidTM](https://github.com/IngDavidTM) for providing the code that made this all possible.
 
 ## Show your support
 
